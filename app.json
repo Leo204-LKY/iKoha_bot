@@ -1,0 +1,23 @@
+{
+    "name": "iKoha",
+    "author": "Leo204_LKY",
+    "namespace": "iKoha",
+    "info": "某个日本八键拍拍机的游戏辅助工具",
+    "priority": 100,
+    "svn": 1,
+    "compatible_svn": 100,
+    "message_mode": "olivos_string",
+    "support": [
+        {
+            "sdk": "kaiheila_link",
+            "platform": "kaiheila",
+            "model": "all"
+        },
+        {
+            "sdk": "onebot",
+            "platform": "qq",
+            "model": "all"
+        }
+    ],
+    "menu_config": []
+}
